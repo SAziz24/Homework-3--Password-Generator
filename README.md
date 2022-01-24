@@ -1,4 +1,5 @@
 In this assignment we are creating a Password Generator.
+This excercise provide a random password in order to create a stronger security for web access.
 The Password Generator works as such.
 GIVEN I need a new, secure password
 When I click the button to generate a password
